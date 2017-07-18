@@ -1,0 +1,17 @@
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/author/resource/AuthorResourceUTest.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/commontests/utils/JsonTestUtils.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/user/resource/UserFilterExtractorFromUrlUTest.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/commontests/utils/FileTestNameUtils.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/logaudit/resource/LogAuditFilterExtractorFromUrlUTest.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/user/resource/UserResouceUTest.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/category/resource/CategoryResourceUTest.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/book/resource/BookResourceUTest.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/commontests/utils/ResourceDefinitions.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/commontests/user/UserTestUtils.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/commontests/utils/FilterExtractorTestUtils.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/author/resource/AuthorFilterExtractorFromUrlUtest.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/logaudit/resource/LogAuditResourceUTest.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/order/resource/OrderFilterExtractorFromUrlTest.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/book/resource/BookFilterExtractorFromUrlTest.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/commontests/order/OrderTestUtils.java
+/home/eddie/dev/workspace/javaee/library-app/library-resource/src/test/java/com/library/app/order/resource/OrderResourceUTest.java
